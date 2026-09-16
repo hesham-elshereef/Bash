@@ -1,0 +1,9 @@
+# Web servers
+172.19.0.2
+172.19.0.3
+
+# Database server
+172.19.0.4
+
+# Monitoring server
+172.19.0.5
